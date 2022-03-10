@@ -1,0 +1,15 @@
+Number of the employees
+6
+ Here the goodies that are selected for distribution are :
+IPods: 22349
+ MI Band: 999 
+Cult Pass: 2799
+ Macbook Pro: 229900
+ Digital Camera: 11101
+ Alexa: 9999
+
+ And the diffrence between the chosen goodies with the highest price and lowest price is : 7804
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
