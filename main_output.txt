@@ -1,0 +1,14 @@
+Number of the employees
+5
+ Here the goodies that are selected for distribution are :
+Cult Pass: 2799
+ Macbook Pro: 229900
+ Digital Camera: 11101
+ Alexa: 9999
+ Sandwich Toaster: 2195
+
+ And the diffrence between the chosen goodies with the highest price and lowest price is : 6102
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
